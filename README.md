@@ -1,7 +1,12 @@
-# multimodal-moderator
+# The Multimodal Moderator
+
+<img align="left" src="https://raw.githubusercontent.com/datjandra/multimodal-moderator/main/multimodal-moderator.png">
+
 AI content moderator for text and images
 
 All code here is not used because this solution was developed using Zapier no-code platform. For demo join Discord invite https://discord.gg/qsw2bJqJ.
+
+------
 
 ![Clarifai logo](https://www.clarifai.com/hs-fs/hubfs/logo/Clarifai/clarifai-740x150.png?width=240)
 
