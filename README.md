@@ -1,6 +1,6 @@
 # The Multimodal Moderator
 
-<img align="left" src="https://raw.githubusercontent.com/datjandra/multimodal-moderator/main/multimodal-moderator.png">
+<img align="left" width="300" src="https://raw.githubusercontent.com/datjandra/multimodal-moderator/main/multimodal-moderator.png">
 
 AI content moderator for text and images
 
