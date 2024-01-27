@@ -4,7 +4,7 @@
 
 AI content moderator for text and images
 
-All code here is not used because this solution was developed using Zapier no-code platform. For demo join Discord invite [https://discord.gg/qsw2bJqJ](https://discord.gg/qsw2bJqJ).
+All code here is not used because this solution was developed using Zapier no-code platform. For demo join Discord invite https://discord.gg/8CTd8ShKQq.
 
 ------
 
